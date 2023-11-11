@@ -4,7 +4,7 @@ import SectionList from "./(section)/SectionList";
 function MainList() {
   return (
     <>
-      <div>
+      <div >
         <SectionList />
         <ArticleList />
       </div>
